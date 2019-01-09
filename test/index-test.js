@@ -51,3 +51,31 @@ describe('deli', () => {
     });
   });
 })
+
+
+var katzDeliLine = [];{
+takeANumber(katzDeliLine, Jehnson);//
+
+takeANumber(katzDeliLine, Kevin);//
+
+takeANumber(katzDeliLine, Amy);//
+
+currentline(katsDeliLine);// console.log(jehnsen,Kevin,Amy)
+
+nowServing(katzDeliLine);// return (Currently serving Jehnsen'')
+currentLine(katzDeliLine);// return (''The line is currently:1.Kevin, 2. Amy
+
+
+var katzDeliLine = [];
+
+takeANumber;}
+
+currentLine(katzDeliLine);// (''The line is currently:1.Kevin, 2. Amy, 3. Dan'')
+
+nowServing(katzDeliLine);// ''Currently serving Kevin.''
+
+currentLine(katzDeliLine);// ''The line is currently:1. Amy, 2. Dan.''{
+
+var katzDeliLine = [];
+
+currentLine(katzDeliLine);// ''The line is currently empty.''{
